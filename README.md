@@ -1,4 +1,4 @@
-![Web Developer](https://media.licdn.com/dms/image/v2/D5616AQF6Uo8ZpriVuw/profile-displaybackgroundimage-shrink_200_800/B56Z0L0w1CJ8AU-/0/1774019875101?e=1780531200&v=beta&t=4wFerUsQi-ilpSlt-VPqTFqcnZ2q2KpyhLeK4hQdlK4)
+![Web Developer]([https://media.licdn.com/dms/image/v2/D5616AQF6Uo8ZpriVuw/profile-displaybackgroundimage-shrink_200_800/B56Z0L0w1CJ8AU-/0/1774019875101?e=1780531200&v=beta&t=4wFerUsQi-ilpSlt-VPqTFqcnZ2q2KpyhLeK4hQdlK4](https://media.licdn.com/dms/image/v2/D5616AQFEoPfUMkKONw/profile-displaybackgroundimage-shrink_350_1400/B56Z5o0sL8GkAU-/0/1779875103792?e=1795046400&v=beta&t=sgttj6FENtJXC60nu0Pfe5h69_WouAvg8woRZ4w2DTc))
 ### Hi there 👋, I'm Sukal Chakma
 #### Web Developer
 
